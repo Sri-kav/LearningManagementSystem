@@ -108,5 +108,13 @@ Developed by **Kavya Raavi**
 
 ## 📸 Screenshots
 ![landerpage](https://github.com/Sri-kav/LearningManagementSystem/blob/c66cd735f4029a31a9abd4ace7e37e2a9a9aac5c/ss1.png)
-![admin login]()
+
+
+![admin login](https://github.com/Sri-kav/LearningManagementSystem/blob/a63f9b2e90bb9a4e4fbb66be208b1a7f844ae96a/ss2.png)
+
+
+![trainer dashboard](https://github.com/Sri-kav/LearningManagementSystem/blob/a63f9b2e90bb9a4e4fbb66be208b1a7f844ae96a/ss3.png)
+
+
+![view assessment](https://github.com/Sri-kav/LearningManagementSystem/blob/a63f9b2e90bb9a4e4fbb66be208b1a7f844ae96a/ss4.png)
 
