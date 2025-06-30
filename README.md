@@ -112,6 +112,8 @@ Developed by **Kavya Raavi**
 
 ![admin login](https://github.com/Sri-kav/LearningManagementSystem/blob/a63f9b2e90bb9a4e4fbb66be208b1a7f844ae96a/ss2.png)
 
+![trainer login](https://github.com/Sri-kav/LearningManagementSystem/blob/1c141c334ed8257db4daddfbd8154d9804e8cb36/ss5.png)
+
 
 ![trainer dashboard](https://github.com/Sri-kav/LearningManagementSystem/blob/a63f9b2e90bb9a4e4fbb66be208b1a7f844ae96a/ss3.png)
 
