@@ -107,5 +107,6 @@ Developed by **Kavya Raavi**
 ---
 
 ## 📸 Screenshots
-![Admin Panel](./screenshots/admin.png)
+![landerpage](https://github.com/Sri-kav/LearningManagementSystem/blob/c66cd735f4029a31a9abd4ace7e37e2a9a9aac5c/ss1.png)
+![admin login]()
 
