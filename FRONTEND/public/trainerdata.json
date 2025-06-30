@@ -1,0 +1,33 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "trainerId": "T123",
+      "course": "Java Full Stack",
+      "status": "active",
+      "selectedSections": {
+        "frontend": true,
+        "backend": true,
+        "database": false,
+        "datasciencelibraries": false,
+        "relationaldatabase": false,
+        "clouddatabase": false
+      }
+    },
+    {
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "trainerId": "T456",
+      "course": "Python Full Stack",
+      "status": "inactive",
+      "selectedSections": {
+        "frontend": true,
+        "backend": false,
+        "database": true,
+        "datasciencelibraries": false,
+        "relationaldatabase": false,
+        "clouddatabase": false
+      }
+    }
+  ]
+  

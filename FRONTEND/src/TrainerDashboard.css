@@ -1,0 +1,24 @@
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    border-right: 1px solid #ccc;
+    background-color: #f8f9fa;
+  }
+  .sidebar-title {
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #007bff;
+    margin-bottom: 20px;
+  }
+  .sidebar button {
+    border-radius: 6px;
+    font-size: 15px;
+  }
+  .sidebar ul li button {
+    padding-left: 1rem;
+    color: #007bff;
+  }
+  .sidebar ul li button:hover {
+    text-decoration: underline;
+  }
+  
